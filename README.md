@@ -1,2 +1,114 @@
-# IBM-Digital-Transformation-Challenge
-Distinction-grade consulting project developing a digital transformation strategy to improve student engagement, application conversion and user experience.
+# Beyond B — Gamified University Application Platform
+## Digital Transformation Consultancy | 🏆 Distinction | MG5661
+
+**Module:** MG5661 — Professional Consultancy in Business Intelligence and Digital Marketing
+**Institution:** Brunel University London
+**Student:** Mark Maxwell Louis | MSc Business Intelligence
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/markmaxwellouis)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/MarkMaxwel112075)
+
+---
+
+## 📌 Project Summary
+
+B University's application process was described by students as 
+**"boring, paperwork-heavy, and stressful."** 79% of applicants needed 
+help with course selection or personal statements (UCAS, 2022), and 
+dropout rates were rising.
+
+**Beyond B** is a behaviourally informed, gamified web platform that 
+reimagines the university application journey for Gen Z — combining 
+BI analytics, career mapping, mini-games, and avatar building into 
+a single seamless experience.
+
+---
+
+## 🗂 Repository Structure
+IBM-Digital-Transformation-Challenge/
+│
+├── README.md                        ← You are here
+├── reflective-report.md             ← Professional reflection & lessons learned
+├── beyond-b-platform-overview.md    ← Full platform concept & impact data
+└── prototype-impact-analysis.md     ← Testing results & metric comparisons
+
+---
+
+## 🎮 Platform Features
+
+| Feature | Purpose | Behavioural Principle |
+|---|---|---|
+| Quest Map | Gamified step-by-step application journey | Reduces cognitive load; creates progress visibility |
+| Career Trait Quiz | Personalised course and career matching | Supports informed, confident decision-making |
+| Mini-Games | Simulate career day-in-the-life scenarios | Exploration-based learning; reduces overwhelm |
+| Avatar Builder | Custom character creation | Identity expression; emotional engagement |
+| BI Dashboard | Real-time admissions analytics | Data-driven operational decisions |
+| Virtual Campus Tour | Interactive campus exploration | Reduces geographic barriers to engagement |
+
+---
+
+## 📊 Prototype Testing Results
+
+| Metric | Current Method | Beyond B | Change |
+|---|---|---|---|
+| Likelihood to Complete Application | ~60% | ~90% | ↑ 30–40% |
+| Perceived Ease ("Easy / Very Easy") | ~35% | ~80% | ↑ ~45pp |
+| Overall Engagement ("Fun / Engaging") | Low | High | Significant uplift |
+| Projected Course Change Rate | ~30% | ~8% | ↓ ~75% |
+
+---
+
+## 🗺 Application Journey — Quest Map
+
+| Stage | Quest Name | Key Actions |
+|---|---|---|
+| 1 | 🏘️ Application Village | Register, Career Quiz, Mini-Games, Choose Course |
+| 2 | 🏰 Admissions Fortress | Interviews, Conditional Offer, Unconditional Offer |
+| 3 | ✅ Acceptance Castle | Accept Offer, Pay Deposit, Apply for Accommodation |
+| 4 | 🏔️ Preparation Peak | Finance, CAS, Visa, Professional Checks |
+| 5 | 🎓 Enrolment Gateway | eVision Registration, Tuition Payment |
+
+---
+
+## 🔍 Why Gen Z Needs a New Approach
+
+| What's Broken | What Gen Z Expects | How Beyond B Solves It |
+|---|---|---|
+| Static, text-heavy forms | Interactive & visual | Gamified Quest Map + Mini-Games |
+| No personalisation | Content adapting to goals | Career Trait Quiz + matching |
+| 79% need personal statement help | Guided structured support | Step-by-step Quest journeys |
+| One-size-fits-all | Creative self-expression | Avatar Builder |
+| Long waits, no feedback | Real-time progress | XP system + BI dashboard |
+
+---
+
+## 📁 Files in This Repository
+
+- 📄 [reflective-report.md](./reflective-report.md)
+  — Professional reflection on consulting lessons learned
+- 🎮 [beyond-b-platform-overview.md](./beyond-b-platform-overview.md)
+  — Full platform concept with feature map and impact data
+- 📊 [prototype-impact-analysis.md](./prototype-impact-analysis.md)
+  — Testing results comparing Beyond B vs current application method
+
+---
+
+## 🛠 Skills Demonstrated
+
+`Digital Transformation Strategy` `Behavioural Design` `Gamification`
+`UX Thinking` `BI Dashboard Design` `Stakeholder Communication`
+`Consultancy Frameworks` `Reflective Practice` `Gen Z Engagement`
+`Cognitive Load Theory` `Ethical AI` `Prototype Testing`
+
+---
+
+## 📚 Key Frameworks
+- Cognitive Load Theory — Huang, Hew & Lo (2020)
+- Gamification & Motivation — Abramovich & Schunn (2021)
+- Digital Transformation — Kane et al. (2019); Matarazzo et al. (2021)
+- Gen Z Digital Engagement — Goh & Yang (2021); Jisc (2020)
+- Student Decision-Making — UCAS (2022); Ming et al. (2023)
+
+---
+
+*Submitted: December 2025 | Brunel Business School | MG5661*
