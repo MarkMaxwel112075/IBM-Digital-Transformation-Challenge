@@ -26,7 +26,7 @@ a single seamless experience.
 
 ## 🖥️ Platform Homepage
 
-![Platform Homepage](./images/Platform_homepage.png)
+![Platform Homepage](./Platform%20homepage.png)
 
 > Live prototype — Home, Dashboard, Quiz, Courses, Build Character,
 > Application, Mini Game and Virtual Tour all accessible from one interface.
@@ -35,7 +35,7 @@ a single seamless experience.
 
 ## 📊 BI Dashboard — Admissions Intelligence
 
-![BI Dashboard](./images/BI_Dashboard.png)
+![BI Dashboard](./BI%20Dashboard.png)
 
 > Real-time admissions dashboard showing 1,240 applications, 72% acceptance
 > rate, weekly quiz play trends, and engagement mix — giving the admissions
@@ -45,7 +45,7 @@ a single seamless experience.
 
 ## 📈 Prototype Impact — Testing Results
 
-![Impact Charts](./images/Impact_Chart.png)
+![Impact Charts](./Impact%20Chart.png)
 
 > Prototype testing showed Beyond B achieved ~90% likelihood to complete
 > vs ~60% for the current method, and ~80% of students rated it "Easy"
@@ -55,7 +55,7 @@ a single seamless experience.
 
 ## 🎯 Career Quiz — Personalised Matching
 
-![Career Quiz](./images/Career_Quiz.png)
+![Career Quiz](./Career%20Quiz.png)
 
 > Students answer scenario-based questions about problem-solving approach
 > and preferred work environment. Results map to the most suited industry
@@ -70,11 +70,10 @@ IBM-Digital-Transformation-Challenge/
 ├── reflective-report.md             ← Professional reflection & lessons learned
 ├── beyond-b-platform-overview.md    ← Full platform concept & impact data
 ├── prototype-impact-analysis.md     ← Testing results & metric comparisons
-└── images/
-├── Platform_homepage.png        ← Live platform homepage
-├── BI_Dashboard.png             ← Admissions BI dashboard
-├── Impact_Chart.png             ← Prototype testing results
-└── Career_Quiz.png              ← Career trait quiz interface
+├── BI Dashboard.png                 ← Admissions BI dashboard screenshot
+├── Career Quiz.png                  ← Career trait quiz interface
+├── Impact Chart.png                 ← Prototype testing results
+└── Platform homepage.png            ← Live platform homepage screenshot
 
 ---
 
